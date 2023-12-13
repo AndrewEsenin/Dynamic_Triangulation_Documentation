@@ -44,14 +44,16 @@ for UE4:
 
    for UE5:  
 
-![SPT_03](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/d7a20114-106d-4b6d-81be-c21a7ff26787)
+![Scr_02](https://github.com/AndrewEsenin/Dynamic_Triangulation_Documentation/assets/150374215/d066b326-167c-4ace-b36f-8656110f1420)
 
-4. "Simple Path Tracer Actor" contains all the functions for editing and creating a path.  
+
+4. "Dynamic Triangulation Actor" contains all functions for triangulation and edit Points Array.  
 You can create your own empty actor or use one of the ready-made examples.
 
-![SPT_05](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/5067783b-38f0-4d1b-a77f-d4a083f8d7f7)
+![Scr_03](https://github.com/AndrewEsenin/Dynamic_Triangulation_Documentation/assets/150374215/9f22c39f-1dc8-4b02-9659-655c2039b463)
 
-If you want to use Path Tracer in the editor, simply drag one of the ready-made examples onto the level and edit the spline.  
+
+If you want to use Dynamic Triangulation in the editor, simply drag "BP_DT_Editor" ready-made examples onto the level and edit the spline.  
 To quickly create points, hold Alt and drag:  
 
 https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/8f0863f2-b76f-4612-ae97-04b5d8c074e7
