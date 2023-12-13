@@ -88,7 +88,7 @@ All other materials are instances of this one.
 |---------------|------------------|  
 | Color | Material color. |
 | Emissive | Glow strength. |
-| Opacity | General material opacity. |
+| Opacity | Part material opacity. |
 | Enable Flickering | Enables flickering animation |
 | Frequency | Flicker frequency |
 | Intencity Min | Minimum flicker brightness |
