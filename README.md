@@ -100,7 +100,7 @@ All other materials are instances of this one.
 | Anim Speed Y | Texture anim speed along the Y axis. |   
 <br />  
 
-To increase the brightness of the glow, you can increase this value when changing the color of the material or adjust the Emmisive values.   
+To increase the brightness of the glow, you can increase this value when changing the color of the material or adjust the Emissive values.   
 (Also, the brightness of the glow may depend on the post-processing settings)  
   
 ![SPT_11](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/42d25663-759b-4d3b-9ea5-1512e1cb2d2a)  
