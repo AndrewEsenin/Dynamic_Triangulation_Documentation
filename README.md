@@ -81,7 +81,9 @@ All other materials are instances of this one.
   
 ![Scr_06](https://github.com/AndrewEsenin/Dynamic_Triangulation_Documentation/assets/150374215/4ed4ec53-b865-4fa2-8d5d-99e76b8af993)  
 
-  
+ <br />
+ The material contains two colors with parameters, one color is applied to the black pixels of Alpha, the second to the white ones.  
+ 
 | **Parameter** | **Description**  |  
 |---------------|------------------|  
 | Color | Material color. |
@@ -97,9 +99,9 @@ All other materials are instances of this one.
 | Absolute Coordinate | If enabled, global UV coordinates will be used, useful for meshes that have no or incorrect UVs. |
 | Anim Speed X | Texture anim speed along the X axis. |
 | Anim Speed Y | Texture anim speed along the Y axis. |   
-  
-  
-To increase the brightness of the glow, you can increase this value when changing the color of the material or adjust the Emmisive values   
+<br />  
+
+To increase the brightness of the glow, you can increase this value when changing the color of the material or adjust the Emmisive values.   
 (Also, the brightness of the glow may depend on the post-processing settings)  
   
 ![SPT_11](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/42d25663-759b-4d3b-9ea5-1512e1cb2d2a)  
