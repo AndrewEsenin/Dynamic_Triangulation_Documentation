@@ -40,7 +40,7 @@ You can download the [Example Project](#Example-Project), it contains many addit
 3. To access the Blueprint examples, do the following, 
 for UE4: 
 
-![SPT_02](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/8f4fe1f3-083c-49a8-bb95-a917946ea68c)
+![Scr_01](https://github.com/AndrewEsenin/Dynamic_Triangulation_Documentation/assets/150374215/a3733d98-d716-4245-aaae-e3220b20356d)
 
    for UE5:  
 
