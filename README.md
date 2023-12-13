@@ -60,7 +60,7 @@ https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/15037421
 
 <br />
 If you want to use Dynamic Triangulation at runtime, you can do the following:  
-Create a new BP_DT_Runtime using the Spawn Actor from Class function, and connect this node to the Begin Play event (for example in Player Controller).  
+Create a new BP_DT_Runtime using the Spawn Actor from Class function, and connect this node to the Begin Play event (for example in Player Controller).    
 Then call the DrawPoly function.  
 
 ![Scr_04](https://github.com/AndrewEsenin/Dynamic_Triangulation_Documentation/assets/150374215/ae0272d2-fed1-4928-9b75-6b74cf4b465e)  
