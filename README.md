@@ -82,13 +82,10 @@ All other materials are instances of this one.
 ![Scr_06](https://github.com/AndrewEsenin/Dynamic_Triangulation_Documentation/assets/150374215/4ed4ec53-b865-4fa2-8d5d-99e76b8af993)  
 
 <br />  
-The material contains two colors with parameters, one color is applied to the black pixels of Alpha, the second to the white ones.  
-  
-<br />  
-  
+
 | **Parameter** | **Description**  |  
 |---------------|------------------|  
-| Color | Material color. |
+| Color | Material color. The material contains two colors with parameters, one color is applied to the black pixels of Alpha, the second to the white ones. |
 | Emissive | Glow strength. |
 | Opacity | Part material opacity. |
 | Enable Flickering | Enables flickering animation. |
