@@ -72,8 +72,57 @@ Then call the DrawPoly function.
 <br />
 
 ## Materials   
-
+The asset includes one main material M_DT_Master.  
+All other materials are instances of this one.  
+  
 <br />
+  
+**Main Material Parametrs**  
+  
+![Scr_06](https://github.com/AndrewEsenin/Dynamic_Triangulation_Documentation/assets/150374215/4ed4ec53-b865-4fa2-8d5d-99e76b8af993)  
+
+  
+| **Parameter** | **Description**  |  
+|---------------|------------------|  
+| Color | Material color. |
+| Emissive | Glow strength. |
+| Opacity | General material opacity. |
+| Enable Flickering | Enables flickering animation |
+| Frequency | Flicker frequency |
+| Intencity Min | Minimum flicker brightness |
+| Intencity Max | Maximum flicker brightness |
+| Alpha | Opacity mask. |
+| Texture Tilling | Texture tiling along X and Y axes. |
+| Rotate Angle (0-1) | Rotates the Alpha, 1 = 360 degrees |
+| Absolute Coordinate | If enabled, global UV coordinates will be used, useful for meshes that have no or incorrect UVs. |
+| Anim Speed X | Texture anim speed along the X axis. |
+| Anim Speed Y | Texture anim speed along the Y axis. |   
+  
+  
+To increase the brightness of the glow, you can increase this value when changing the color of the material or adjust the Emmisive values   
+(Also, the brightness of the glow may depend on the post-processing settings)  
+  
+![SPT_11](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/42d25663-759b-4d3b-9ea5-1512e1cb2d2a)  
+  
+  
+**Visibility Through Objects**  
+To make the path visible through other objects, enable this option in the material settings:  
+  
+![SPT_10](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/a640201d-6d6a-47ce-9297-289032150479)
+  
+  
+**Material Optimization**  
+For convenience and versatility, translucent mode and the 2 sided option are enabled by default for all materials.   
+If you don't need opacity, switch it to Opaque mode, this will have a positive effect on performance.   
+  
+![SPT_08](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/a9e39b28-ba08-48b4-879e-670fd5fa90b2)
+  
+  
+If you never see the backside of path polygons, disable the 2 Sided option, this will also improve performance.  
+  
+![SPT_09](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/950f9343-ea2b-4c3c-abd4-961b478897e8)
+  
+<br />  
 
 ## Features and Tips  
 ### Migrate  
