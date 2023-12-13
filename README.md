@@ -4,7 +4,7 @@ Unreal Marketplace Link:
 YouTube:  
 Support email: andrewesenin27@gmail.com  
 Example Project:  
-Playble Demo:  
+Playable Demo:  
   
 <br />
 
