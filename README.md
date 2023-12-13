@@ -180,7 +180,7 @@ If, in addition to the procedural mesh, you use static meshes, after baking, you
 <br />
 
 ## Example Project  
-Example Project (for UE versions 4.6 - 5.3)  
+Example Project (for UE versions 4.7 - 5.3)  
 link  /**/   
 
 BP_Demo_Helper contains all the logic for the runtime example.
