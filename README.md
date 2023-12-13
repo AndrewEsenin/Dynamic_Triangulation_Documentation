@@ -107,7 +107,7 @@ To increase the brightness of the glow, you can increase this value when changin
   
   
 **Visibility Through Objects**  
-To make the path visible through other objects, enable this option in the material settings:  
+To make the mesh visible through other objects, enable this option in the material settings:  
   
 ![SPT_10](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/a640201d-6d6a-47ce-9297-289032150479)
   
@@ -119,7 +119,7 @@ If you don't need opacity, switch it to Opaque mode, this will have a positive e
 ![SPT_08](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/a9e39b28-ba08-48b4-879e-670fd5fa90b2)
   
   
-If you never see the backside of path polygons, disable the 2 Sided option, this will also improve performance.  
+If you never see the backside of polygons, disable the 2 Sided option, this will also improve performance.  
   
 ![SPT_09](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/950f9343-ea2b-4c3c-abd4-961b478897e8)
   
