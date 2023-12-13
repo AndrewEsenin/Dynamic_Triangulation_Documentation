@@ -89,13 +89,13 @@ All other materials are instances of this one.
 | Color | Material color. |
 | Emissive | Glow strength. |
 | Opacity | Part material opacity. |
-| Enable Flickering | Enables flickering animation |
-| Frequency | Flicker frequency |
-| Intencity Min | Minimum flicker brightness |
-| Intencity Max | Maximum flicker brightness |
+| Enable Flickering | Enables flickering animation. |
+| Frequency | Flicker frequency. |
+| Intencity Min | Minimum flicker brightness. |
+| Intencity Max | Maximum flicker brightness. |
 | Alpha | Opacity mask. |
 | Texture Tilling | Texture tiling along X and Y axes. |
-| Rotate Angle (0-1) | Rotates the Alpha, 1 = 360 degrees |
+| Rotate Angle (0-1) | Rotates the Alpha, 1 = 360 degrees. |
 | Absolute Coordinate | If enabled, global UV coordinates will be used, useful for meshes that have no or incorrect UVs. |
 | Anim Speed X | Texture anim speed along the X axis. |
 | Anim Speed Y | Texture anim speed along the Y axis. |   
