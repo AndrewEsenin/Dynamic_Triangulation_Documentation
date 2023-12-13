@@ -84,6 +84,7 @@ All other materials are instances of this one.
 <br />
 The material contains two colors with parameters, one color is applied to the black pixels of Alpha, the second to the white ones.  
 <br />
+
 | **Parameter** | **Description**  |  
 |---------------|------------------|  
 | Color | Material color. |
