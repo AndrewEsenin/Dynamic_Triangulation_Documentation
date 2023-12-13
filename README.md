@@ -20,8 +20,6 @@ Playble Demo:
 <br />
 
 ## Description  
-
-
 You can download the [Example Project](#Example-Project), it contains many additional examples.  
 
 <br />
@@ -68,6 +66,39 @@ Then call the DrawPoly function.
 <br />
 
 ## Functions Description   
+The plugin includes 3 blueprintcallable functions.  
+All functions are located in the "Dynamic Triangulation" section.  
+
+![Scr_07](https://github.com/AndrewEsenin/Dynamic_Triangulation_Documentation/assets/150374215/b5974044-b357-47ca-be3a-bf60fbdde7e1)
+
+**Triangulate Polygon**  
+Triangulates a specific area that's defined by an array of points.  
+
+| **Parameter** | **Description**  |  
+|---------------|------------------|  
+| Points | A sequential array of points forming an area for triangulation. |
+| bReversePoints | Inverts the order of points in an array. |
+| bEnableUV | Enables UV creation, by default the M_DT_Master material uses global coordinates, such a material does not need UVs, but if you need UVs, you can enable it. |
+| ScaleUV | Scale UV on two axes, squeezes the texture along one of the axes. |
+| Triangles | Array of triangles for Procedural Mesh. |
+| UV | Array of UV coordinates for Procedural Mesh. |
+
+<br />
+
+**Rounding Path Corners**  
+Rounding the corners of the path.  
+The Radius parameter determines the strength of the rounding, and the Segments parameter determines how many polygons will be created at each corner.  
+With Segments = 1 it works like a chamfer, just cutting corners, Segments = 8-16 is enough to make smooth and rounded corners.  
+It is also handy to use with a small Radius and a value of 1 for Segments to trim very long sharp corners that can occur with sharp path turns.  
+bLoopPath in this case looping means that two rounded corners will be added between the first and last point of the path.  
+
+<br />
+
+**Merge Border Points**   
+Merges path points that are closer together than MergedDistance.  
+If your path has consecutive points with the same coordinates, this function will remove them.  
+You can also use this function for optimization, if you have clusters of points along the path,  
+you can combine them into one and then, for example, round the corners.  
 
 <br />
 
