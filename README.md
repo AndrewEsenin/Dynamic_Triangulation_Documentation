@@ -102,5 +102,7 @@ If, in addition to the procedural mesh, you use static meshes, after baking, you
 Example Project (for UE versions 4.6 - 5.3)  
 link  /**/   
 
+BP_Demo_Helper contains all the logic for the runtime example.
+
 Before you can open the Example Project you need to enable the plugin for your engine version ([read more](#Quick-Start)).   
 You can migrate the entire level with examples or individual examples from Example Project to your project using migrate ([read more](#Migrate)). 
