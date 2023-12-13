@@ -46,3 +46,18 @@ for UE4:
 
 ![SPT_03](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/d7a20114-106d-4b6d-81be-c21a7ff26787)
 
+4. "Simple Path Tracer Actor" contains all the functions for editing and creating a path.  
+You can create your own empty actor or use one of the ready-made examples.
+
+![SPT_05](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/5067783b-38f0-4d1b-a77f-d4a083f8d7f7)
+
+If you want to use Path Tracer in the editor, simply drag one of the ready-made examples onto the level and edit the spline.  
+To quickly create points, hold Alt and drag:  
+
+https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/8f0863f2-b76f-4612-ae97-04b5d8c074e7
+
+<br />
+If you want to use Path Tracer at runtime, you can do the following:
+Create a new Path Tracer using the Spawn Actor from Class function, selecting one of the ready-made examples, and connect this node to the Begin Play event (for example in Player Controller).  
+
+![SPT_20](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/9192f9dc-d16d-4781-a9d2-f3fa75a39bed)
