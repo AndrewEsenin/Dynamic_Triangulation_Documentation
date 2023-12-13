@@ -1,4 +1,4 @@
-# Dynamic_Triangulation_Documentation
+# Dynamic Triangulation Documentation
 
 Unreal Marketplace Link:   
 YouTube:  
