@@ -20,7 +20,10 @@ Playable Demo: https://drive.google.com/file/d/1-hEs6MUIa3aM4M6qKXNQgG-7sC1zHifS
 <br />
 
 ## Description  
-You can download the [Example Project](#Example-Project), it contains many additional examples.  
+This C++ Plugin will allow you to create polygonal meshes from points.  
+Meshes can be created in the editor or when the game is running.   
+You can use a set of consecutive points (spline points, for example) that form an area to turn it into a single mesh.  
+You can download the [Example Project](#Example-Project), it contains an overview scene and Runtime example.  
 
 <br />
 
