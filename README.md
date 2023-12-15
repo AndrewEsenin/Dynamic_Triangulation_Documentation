@@ -35,7 +35,7 @@ You can download the [Example Project](#Example-Project), it contains an overvie
 
 2. Activate the plugin (if not activated) and restart the engine.
 
-![SPT_38](https://github.com/AndrewEsenin/Simple_Path_Tracer_Documentation/assets/150374215/058ea1ff-efce-46ca-974b-7182587adee2)
+![Scr_08](https://github.com/AndrewEsenin/Dynamic_Triangulation_Documentation/assets/150374215/61eb06c8-3ddb-4f4f-bf64-aa4f536ea2a4)
 
 
 3. To access the Blueprint examples, do the following, 
