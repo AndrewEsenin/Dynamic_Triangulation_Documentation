@@ -1,9 +1,9 @@
 # Dynamic Triangulation Documentation
 
 Unreal Marketplace Link:   
-YouTube:  
+YouTube:  https://youtu.be/cwlsk4oWINE  
 Support email: andrewesenin27@gmail.com  
-Example Project:  
+Example Project:  https://drive.google.com/file/d/1uY3zj7PM6Z-rsRM31nPL98xSFwi3v6wr/view?usp=sharing  
 Playable Demo: https://drive.google.com/file/d/1-hEs6MUIa3aM4M6qKXNQgG-7sC1zHifS/view?usp=sharing  
   
 <br />
@@ -184,7 +184,7 @@ If, in addition to the procedural mesh, you use static meshes, after baking, you
 
 ## Example Project  
 Example Project (for UE versions 4.7 - 5.3)  
-link  /**/   
+link  https://drive.google.com/file/d/1uY3zj7PM6Z-rsRM31nPL98xSFwi3v6wr/view?usp=sharing  
 
 BP_Demo_Helper contains all the logic for the runtime example.
 
